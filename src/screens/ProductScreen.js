@@ -28,6 +28,8 @@ const ProductScreen = ({ match }) => {
               />
             </ListGroup.Item>
             <ListGroup.Item>Description: {product.description}</ListGroup.Item>
+            <ListGroup.Item>Type: {product.brand}</ListGroup.Item>
+            <ListGroup.Item>Category: {product.category}</ListGroup.Item>
           </ListGroup>
         </Col>
         <Col md={3}>
