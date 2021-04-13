@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cherry/static/css/main.0838601a.chunk.css",
+    "main.js": "/cherry/static/js/main.1e419801.chunk.js",
+    "main.js.map": "/cherry/static/js/main.1e419801.chunk.js.map",
+    "runtime-main.js": "/cherry/static/js/runtime-main.258260f5.js",
+    "runtime-main.js.map": "/cherry/static/js/runtime-main.258260f5.js.map",
+    "static/js/2.978dd9bc.chunk.js": "/cherry/static/js/2.978dd9bc.chunk.js",
+    "static/js/2.978dd9bc.chunk.js.map": "/cherry/static/js/2.978dd9bc.chunk.js.map",
+    "index.html": "/cherry/index.html",
+    "precache-manifest.35af9c3c437744f9f8fc327be6388726.js": "/cherry/precache-manifest.35af9c3c437744f9f8fc327be6388726.js",
+    "service-worker.js": "/cherry/service-worker.js",
+    "static/css/main.0838601a.chunk.css.map": "/cherry/static/css/main.0838601a.chunk.css.map",
+    "static/js/2.978dd9bc.chunk.js.LICENSE.txt": "/cherry/static/js/2.978dd9bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.258260f5.js",
+    "static/js/2.978dd9bc.chunk.js",
+    "static/css/main.0838601a.chunk.css",
+    "static/js/main.1e419801.chunk.js"
+  ]
+}
